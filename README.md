@@ -1,3 +1,7 @@
+
+I had the opportunity to attend the eleventh edition of the Programming and Tuning Massively Parallel Systems + Artificial Intelligence (PUMPS+AI) Summer School 2021. 
+
+
 # PUMPS+AI 2021
 
 
